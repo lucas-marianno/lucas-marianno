@@ -1,6 +1,6 @@
 ## Lucas Marianno <a href=""><img alt="🇧🇷" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" height=20px /></a>
 
-I'm Mobile Developer and former English teacher from São Bernardo do Campo - Brazil. I'm computer science enthusiast and a relentless learner.
+I'm Mobile Developer and former English teacher from São Bernardo do Campo - Brazil. I'm a computer science enthusiast and a relentless learner.
 
 #### Currently working on
 

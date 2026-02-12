@@ -1,6 +1,6 @@
 # Lucas Mariano <a href=""><img alt="🇧🇷" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" height=20px /></a>
 
-I'm Full-Stack Developer and former English teacher from São Bernardo do Campo - Brazil. I'm a computer science enthusiast and a relentless learner.
+I'm a Full-Stack Developer and former English teacher from São Bernardo do Campo - Brazil. I'm a computer science enthusiast and a relentless learner.
 
 ## I'm currently working on...
 - My family! Nope, not a project, I'm talking about my real family. I'm a father now. Yay!!

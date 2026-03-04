@@ -7,8 +7,8 @@ I'm a Full-Stack Developer and former English teacher from São Bernardo do Camp
 - Also, I'm finally getting my Computer Science degree (I'll hopefully be graduated by mid 2026).
 
 ### Recent projects
-- [Walking Skeleton](https://github.com/lucas-marianno/walking-skeleton.git) - A cloud infrastructure & CI/CD Project. Live at [skeleton.olaria.online](http://skeleton.olaria.online/hello). Check api documentation [here](https://github.com/lucas-marianno/walking-skeleton/blob/main/README.md).  
-  Tech stack: Java 25 + Spring Boot + Spring WEB + Spring Actuator + Grafana + Prometheus + NginX + Docker + Docker Compose + Oracle Cloud
+- [Walking Skeleton](https://github.com/lucas-marianno/walking-skeleton.git) - A cloud infrastructure & CI/CD Project. Currently live at [skeleton.olaria.online](http://skeleton.olaria.online/). Check api documentation [here](https://github.com/lucas-marianno/walking-skeleton/blob/main/README.md).  
+  Tech stack: Java 25 + Spring Boot + Spring WEB + Spring Actuator + Grafana + Prometheus + NginX + Docker + Docker Compose + Oracle Cloud + GitHub Workflows/Actions
 
 - [Desafio de Backend - Itaú](https://github.com/lucas-marianno/desafio-itau-backend.git) - My solution to the backend challenge proposed by the bank Itaú-Unibanco.  
   Tech stack: Java 25 + Spring Boot + Spring WEB + Spring Actuator + Grafana + Prometheus + Lombok + Docker
